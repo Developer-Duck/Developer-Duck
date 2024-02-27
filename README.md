@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-duck&label=Profile%20views&color=0e75b6&style=flat" alt="developer-duck" /> </p>
 
-- 🔭 I’m currently working on [plan to do it soon](#plan to do it soon)
+- 🔭 I’m currently working on [plan to do it soon]
 
 - 🌱 I’m currently learning **opencv, machine learning, java**
 
-- 👯 I’m looking to collaborate on [plan to do it soon](#plan to do it soon)
+- 👯 I’m looking to collaborate on [plan to do it soon]
 
-- 🤝 I’m looking for help with [plan to do it soon](#plan to do it soon)
+- 🤝 I’m looking for help with [plan to do it soon]
 
-- 📝 work hard at school [Semyung Computer High School](Semyung Computer High School)
+- 📝 work hard at school [Semyung Computer High School]
 
 - 💬 Ask me about **web page with html :)**
 
