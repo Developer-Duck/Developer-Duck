@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chanhyuk</h1>
 <h3 align="center">I'm a developer who's learning hard.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-duck&label=Profile%20views&color=0e75b6&style=flat" alt="developer-duck" /> </p>
+
 
 - 🔭 I’m currently working on [plan to do it soon]
 
