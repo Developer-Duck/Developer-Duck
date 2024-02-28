@@ -24,7 +24,7 @@
 - 📫 How to reach me **xxxfly228@gmail.com**
 
 
-- ⚡ Fun fact **I go to Semyung Computer High School haha.**
+- ⚡ Fun fact **I like html**
 
 <h3 align="left">Connect with me:</h3>
 
