@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [plan to do it soon]
+ - 🔭 I’m currently working on [plan to do it soon]
 
->- 🌱 I’m currently learning **opencv, machine learning, java**
+ - 🌱 I’m currently learning **opencv, machine learning, java**
 
 
 
@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I like html**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h3>
 
 <p align="center">
 <a href="https://twitter.com/chanhyuk0522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanhyuk0522" height="30" width="40" /></a>
