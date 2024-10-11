@@ -3,7 +3,8 @@
 
 
 
- - 🔭 I’m currently working on [plan to do it soon]
+<p align="center"> ● 🔭 I’m currently working on [plan to do it soon]</p>
+
 
  - 🌱 I’m currently learning **opencv, machine learning, java**
 
