@@ -5,27 +5,19 @@
 
 <p align="center"> ● 🔭 I’m currently working on [plan to do it soon]</p>
 
+<p align="center"> ● 🌱 I’m currently learning **opencv, machine learning, java**</p>
 
- - 🌱 I’m currently learning **opencv, machine learning, java**
+<p align="center"> ●  👯 I’m looking to collaborate on [plan to do it soon]</p>
 
+<p align="center"> ●  🤝 I’m looking for help with [plan to do it soon]</p>
 
+<p align="center"> ●  📝 work hard at school [Semyung Computer High School]</p>
 
-- 👯 I’m looking to collaborate on [plan to do it soon]
+<p align="center"> ● 💬 Ask me about **web page with html :)**</p>
 
+<p align="center"> ● 📫 How to reach me **xxxfly228@gmail.com**</p>
 
-- 🤝 I’m looking for help with [plan to do it soon]
-
-
-- 📝 work hard at school [Semyung Computer High School]
-
-
-- 💬 Ask me about **web page with html :)**
-
-
-- 📫 How to reach me **xxxfly228@gmail.com**
-
-
-- ⚡ Fun fact **I like html**
+<p align="center"> ● ⚡ Fun fact **I like html**</p>
 
 <h2 align="center">Connect with me:</h3>
 
