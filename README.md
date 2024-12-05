@@ -1,89 +1,51 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub 소개</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #24292e;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5em;
-        }
-        main {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #fff;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        section {
-            margin-bottom: 20px;
-        }
-        section h2 {
-            color: #0366d6;
-            margin-bottom: 10px;
-        }
-        footer {
-            text-align: center;
-            padding: 10px 0;
-            background-color: #24292e;
-            color: #fff;
-            margin-top: 20px;
-        }
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>GitHub</h1>
-        <p>전 세계 개발자들이 협업하는 코드 플랫폼</p>
-    </header>
-    <main>
-        <section>
-            <h2>GitHub란?</h2>
-            <p>GitHub는 Git을 기반으로 한 소프트웨어 개발 플랫폼으로, 코드 버전 관리와 협업을 돕는 도구입니다. 개발자들은 프로젝트를 공유하고, 협력하며, 효율적으로 관리할 수 있습니다.</p>
-        </section>
-        <section>
-            <h2>주요 기능</h2>
-            <ul>
-                <li>코드 버전 관리</li>
-                <li>협업을 위한 풀 리퀘스트(Pull Requests)</li>
-                <li>이슈 관리</li>
-                <li>CI/CD를 통한 자동화</li>
-                <li>프로젝트 문서화를 위한 Wiki</li>
-            </ul>
-        </section>
-        <section>
-            <h2>GitHub로 할 수 있는 일</h2>
-            <p>GitHub를 사용하면 팀원과 원활하게 협력하고, 오픈소스 프로젝트에 기여하거나, 개인 프로젝트를 관리할 수 있습니다. 또한 GitHub Actions를 활용해 개발 워크플로우를 자동화할 수 있습니다.</p>
-        </section>
-        <section>
-            <h2>GitHub 방문하기</h2>
-            <p><a href="https://github.com" target="_blank">GitHub 공식 웹사이트</a></p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 GitHub 소개 페이지. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+# 👋 Hi there! I'm [Your Name]
+
+💻 Passionate about software development and [specific domain/field].  
+🌱 Currently exploring [technologies/fields].  
+
+---
+
+## 🛠️ My Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=yolo&logoColor=black&style=for-the-badge)
+![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?logo=qt&logoColor=white&style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats & Languages
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 💡 Language Proficiency
+- **Python**: ![80%](https://progress-bar.dev/80/?title=Expert)
+- **JavaScript**: ![65%](https://progress-bar.dev/65/?title=Intermediate)
+- **C++**: ![50%](https://progress-bar.dev/50/?title=Beginner)
+- **HTML/CSS**: ![75%](https://progress-bar.dev/75/?title=Proficient)
+
+---
+
+### 🚀 Projects
+- **[Project Name](링크)**: [간단 설명]  
+- **[Another Project](링크)**: [간단 설명]  
+
+---
+
+### 🌟 About Me
+- "Code is a tool to solve problems and empower people."  
+- Open to collaboration and always eager to learn.  
+
+---
+
+## 📫 Contact Me
+- **Email**: [이메일 주소]  
+- **GitHub**: [GitHub 프로필 링크]  
+- **LinkedIn**: [LinkedIn 링크]  
+
+---
