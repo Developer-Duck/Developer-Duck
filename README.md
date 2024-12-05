@@ -13,7 +13,7 @@
 ---
 
 ### 🌟 About Me
-- "Code is a tool to solve problems and empower people."  
+- ""  
 - Open to collaboration and always eager to learn.  
 
 ---
@@ -39,8 +39,6 @@
 ---
 
 ## 📫 Contact Me
-- **Email**: [이메일 주소]  
-- **GitHub**: [GitHub 프로필 링크]  
-- **LinkedIn**: [LinkedIn 링크]  
+- **Email**: xxxfly228@gmail.com  
 
 ---
