@@ -1,33 +1,89 @@
-<h1 align="center">Hi 👋, I'm chanhyuk</h1>
-<h3 align="center">I'm a developer who's learning hard.</h3>
-
-
-
-<p align="center"> 🔭 I’m currently working on [plan to do it soon]</p>
-
-<p align="center"> 🌱 I’m currently learning **opencv, machine learning, java**</p>
-
-<p align="center"> 👯 I’m looking to collaborate on [plan to do it soon]</p>
-
-<p align="center"> 🤝 I’m looking for help with [plan to do it soon]</p>
-
-<p align="center"> 📝 work hard at school [Semyung Computer High School]</p>
-
-<p align="center"> 💬 Ask me about **web page with html :)**</p>
-
-<p align="center"> 📫 How to reach me **xxxfly228@gmail.com**</p>
-
-<p align="center"> ⚡ Fun fact **I like html**</p>
-
-<h2 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://twitter.com/chanhyuk0522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanhyuk0522" height="30" width="40" /></a>
-<a href="https://instagram.com/chan_hyuk6522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chan_hyuk6522" height="30" width="40" /></a>
-<a href="https://discord.gg/정찬혁#2863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="정찬혁#2863" height="30" width="40" /></a>
-</p> 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub 소개</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #24292e;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        section h2 {
+            color: #0366d6;
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #24292e;
+            color: #fff;
+            margin-top: 20px;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GitHub</h1>
+        <p>전 세계 개발자들이 협업하는 코드 플랫폼</p>
+    </header>
+    <main>
+        <section>
+            <h2>GitHub란?</h2>
+            <p>GitHub는 Git을 기반으로 한 소프트웨어 개발 플랫폼으로, 코드 버전 관리와 협업을 돕는 도구입니다. 개발자들은 프로젝트를 공유하고, 협력하며, 효율적으로 관리할 수 있습니다.</p>
+        </section>
+        <section>
+            <h2>주요 기능</h2>
+            <ul>
+                <li>코드 버전 관리</li>
+                <li>협업을 위한 풀 리퀘스트(Pull Requests)</li>
+                <li>이슈 관리</li>
+                <li>CI/CD를 통한 자동화</li>
+                <li>프로젝트 문서화를 위한 Wiki</li>
+            </ul>
+        </section>
+        <section>
+            <h2>GitHub로 할 수 있는 일</h2>
+            <p>GitHub를 사용하면 팀원과 원활하게 협력하고, 오픈소스 프로젝트에 기여하거나, 개인 프로젝트를 관리할 수 있습니다. 또한 GitHub Actions를 활용해 개발 워크플로우를 자동화할 수 있습니다.</p>
+        </section>
+        <section>
+            <h2>GitHub 방문하기</h2>
+            <p><a href="https://github.com" target="_blank">GitHub 공식 웹사이트</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 GitHub 소개 페이지. All rights reserved.</p>
+    </footer>
+</body>
+</html>
