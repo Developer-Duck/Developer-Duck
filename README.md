@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm chanhyuk</h1>
-<h3 align="center">I'm a developer who's learning hard.</h3>
+<h1>Hi 👋, I'm chanhyuk</h1>
+<h3>I'm a developer who's learning hard.</h3>
 
 
 
-<p align="center"> 🔭 I’m currently working on [plan to do it soon]</p>
+<p> 🔭 I’m currently working on [plan to do it soon]</p>
 
-<p align="center"> 🌱 I’m currently learning **opencv, machine learning, java**</p>
+<p> 🌱 I’m currently learning **opencv, machine learning, java**</p>
 
-<p align="center"> 👯 I’m looking to collaborate on [plan to do it soon]</p>
+<p> 👯 I’m looking to collaborate on [plan to do it soon]</p>
 
-<p align="center"> 🤝 I’m looking for help with [plan to do it soon]</p>
+<p> 🤝 I’m looking for help with [plan to do it soon]</p>
 
-<p align="center"> 📝 work hard at school [Semyung Computer High School]</p>
+<p> 📝 work hard at school [Semyung Computer High School]</p>
 
-<p align="center"> 💬 Ask me about **web page with html :)**</p>
+<p> 💬 Ask me about **web page with html :)**</p>
 
-<p align="center"> 📫 How to reach me **xxxfly228@gmail.com**</p>
+<p> 📫 How to reach me **xxxfly228@gmail.com**</p>
 
-<p align="center"> ⚡ Fun fact **I like html**</p>
+<p> ⚡ Fun fact **I like html**</p>
 
-<h2 align="center">Connect with me:</h3>
+<h2>Connect with me:</h3>
 
-<p align="center">
+<p>
 <a href="https://twitter.com/chanhyuk0522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanhyuk0522" height="30" width="40" /></a>
 <a href="https://instagram.com/chan_hyuk6522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chan_hyuk6522" height="30" width="40" /></a>
 <a href="https://discord.gg/정찬혁#2863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="정찬혁#2863" height="30" width="40" /></a>
