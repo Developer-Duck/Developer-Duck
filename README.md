@@ -24,6 +24,16 @@
 
 ---
 
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+---
+
+### 📅 Contributions in the Last Year
+![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github)
+
+---
+
 ### 💡 Language Proficiency
 - **Python**: ![80%](https://progress-bar.dev/80/?title=Expert)
 - **JavaScript**: ![65%](https://progress-bar.dev/65/?title=Intermediate)
@@ -41,6 +51,16 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=yolo&logoColor=black&style=for-the-badge)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?logo=qt&logoColor=white&style=for-the-badge)
+
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+
+---
+
+### 🏅 Wakatime
+![Wakatime](https://wakatime.com/badge/user/yourusername.svg)
 
 ---
 
