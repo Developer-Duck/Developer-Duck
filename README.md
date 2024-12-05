@@ -1,31 +1,31 @@
-# 👋 Hi there! I'm [Your Name]
+<h1 align="center">Hi 👋, I'm chanhyuk</h1>
+<h3 align="center">I'm a developer who's learning hard.</h3>
 
-💻 Passionate about software development and [specific domain/field].  
-🌱 Currently exploring [technologies/fields].  
-🚀 I'm always eager to learn and collaborate on exciting projects!
 
----
 
-## 🚀 Projects
-- **[Project Name](링크)**: [간단 설명]  
-- **[Another Project](링크)**: [간단 설명]  
+<p align="center"> 🔭 I’m currently working on [plan to do it soon]</p>
 
----
+<p align="center"> 🌱 I’m currently learning **opencv, machine learning, java**</p>
 
-### 🌟 About Me
-- ""  
-- Open to collaboration and always eager to learn.  
+<p align="center"> 👯 I’m looking to collaborate on [plan to do it soon]</p>
 
----
+<p align="center"> 🤝 I’m looking for help with [plan to do it soon]</p>
 
-### 💡 Language Proficiency
-- **Python**: ![80%](https://progress-bar.dev/80/?title=Expert)
-- **JavaScript**: ![65%](https://progress-bar.dev/65/?title=Intermediate)
-- **C++**: ![50%](https://progress-bar.dev/50/?title=Beginner)
-- **HTML/CSS**: ![75%](https://progress-bar.dev/75/?title=Proficient)
+<p align="center"> 📝 work hard at school [Semyung Computer High School]</p>
 
----
+<p align="center"> 💬 Ask me about **web page with html :)**</p>
 
+<p align="center"> 📫 How to reach me **xxxfly228@gmail.com**</p>
+
+<p align="center"> ⚡ Fun fact **I like html**</p>
+
+<h2 align="center">Connect with me:</h3>
+
+<p align="center">
+<a href="https://twitter.com/chanhyuk0522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanhyuk0522" height="30" width="40" /></a>
+<a href="https://instagram.com/chan_hyuk6522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chan_hyuk6522" height="30" width="40" /></a>
+<a href="https://discord.gg/정찬혁#2863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="정찬혁#2863" height="30" width="40" /></a>
+</p> 
 ## 🛠️ My Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -36,9 +36,5 @@
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=yolo&logoColor=black&style=for-the-badge)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?logo=qt&logoColor=white&style=for-the-badge)
 
----
 
-## 📫 Contact Me
-- **Email**: xxxfly228@gmail.com  
 
----
