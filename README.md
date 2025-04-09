@@ -17,8 +17,6 @@
 
 <p> 📫 How to reach me **xxxfly228@gmail.com**</p>
 
-<p> ⚡ Fun fact **I like html**</p>
-
 <h2>Connect with me:</h3>
 
 <p>
