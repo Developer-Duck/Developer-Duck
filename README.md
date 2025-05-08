@@ -13,8 +13,6 @@
 
 <p> 📝 work hard at school [Semyung Computer High School]</p>
 
-<p> 💬 Ask me about **web page with html :)**</p>
-
 <p> 📫 How to reach me **xxxfly228@gmail.com**</p>
 
 <h2>Connect with me:</h3>
