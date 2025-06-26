@@ -6,13 +6,13 @@
 
 
 <!-- GitHub 언어 그래프 + Stats 나란히 배치 -->
-<p align="center">
+<p align="center" margin="0 10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" />
 </p>
 
 <!-- GitHub 히트맵 (activity graph) -->
-<p align="center">
+<p align="center" margin="0 10">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Duck&theme=tokyo-night&area=true" />
 </p>
 
