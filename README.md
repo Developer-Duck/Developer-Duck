@@ -5,10 +5,10 @@
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" 
-       style="height: 500px; width: 350px;" />
+       style="height: 200px; width: 350px;" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" 
-       style="height: 500px; width: 450px;" />
+       style="height: 200px; width: 450px;" />
 </p>
 <p align="center" margin="-20 10 -20 10">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Duck&theme=tokyo-night&area=true" />
