@@ -1,22 +1,21 @@
-<!-- 방문자 수 카운터 -->
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Developer-Duck&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 
-
-<!-- GitHub 언어 그래프 + Stats 나란히 배치 -->
-<p align="center" margin="0 10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" 
+       style="margin: 0 10px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" 
+       style="margin: 0 10px; height: 200px;" />
 </p>
 
-<!-- GitHub 히트맵 (activity graph) -->
 <p align="center" margin="0 10">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Duck&theme=tokyo-night&area=true" />
 </p>
 
-<!-- 기술 스택 뱃지 -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
