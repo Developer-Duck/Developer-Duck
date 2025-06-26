@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" 
        style="height: 400px; width: 450px;" />
 </p>
-<p align="center" margin="0 10">
+<p align="center" margin="-20 10 -20 10">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Duck&theme=tokyo-night&area=true" />
 </p>
 
