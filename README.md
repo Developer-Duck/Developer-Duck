@@ -6,9 +6,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" 
-       style="margin: 0 100px; height: 200px;" />
+       style="height: 200px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" 
-       style="margin: 0 100px; height: 200px;" />
+       style="height: 200px;" />
 </p>
 
 
