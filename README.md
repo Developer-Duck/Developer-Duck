@@ -3,6 +3,19 @@
   <img src="https://komarev.com/ghpvc/?username=Developer-Duck&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
+
+<!-- GitHub 언어 그래프 + Stats 나란히 배치 -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" />
+</p>
+
+<!-- GitHub 히트맵 (activity graph) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Duck&theme=tokyo-night&area=true" />
+</p>
+
 <!-- 기술 스택 뱃지 -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,15 +28,4 @@
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
-<!-- GitHub 언어 그래프 + Stats 나란히 배치 -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" />
-</p>
-
-<!-- GitHub 히트맵 (activity graph) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Duck&theme=tokyo-night&area=true" />
 </p>
