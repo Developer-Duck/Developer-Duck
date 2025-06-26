@@ -11,20 +11,16 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv5-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-<!-- GitHub 언어 비율 그래프 -->
+<!-- GitHub 언어 그래프 + Stats 나란히 배치 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<!-- GitHub Stats 카드 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" />
 </p>
 
 <!-- GitHub 히트맵 (activity graph) -->
