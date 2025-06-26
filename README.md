@@ -6,9 +6,9 @@
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Duck&layout=compact&langs_count=8&theme=tokyonight" 
-       style="height: 250px; width: 300px;" />
+       style="height: 300px; width: 300px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=Developer-Duck&show_icons=true&theme=tokyonight" 
-       style="height: 250px; width: 400px;" />
+       style="height: 300px; width: 400px;" />
 </p>
 
 
